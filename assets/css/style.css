@@ -1820,5 +1820,5 @@ textarea:focus {
 }
 
 .slick-track{
-	display: flex;
+	display: flex !important;
 }
