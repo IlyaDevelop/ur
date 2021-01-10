@@ -1818,3 +1818,7 @@ textarea:focus {
     animation: none !important;
   }
 }
+
+.slick-track{
+	display: flex;
+}
